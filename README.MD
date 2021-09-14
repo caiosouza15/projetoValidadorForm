@@ -1,6 +1,5 @@
 # Projeto Validador de formulario
-Este projeto tem a intenção de demonstrar conhecimentos voltados ao JavaScript. Surgiu diante de um projeto para uma entrevista de emprego ao qual não consegui realizar na epoca, porém o gostinho de que era possivel, só bastata um pouco mais de hard-skills. Pois bem, projeto saiu como planejado, espero que curtam. no meu github deixei uns comentarios de seus funcinamento. acessa lá e da uma lida no README.
-
+Este projeto tem a intenção de demonstrar conhecimentos voltados ao JavaScript. Surgiu diante de um projeto para uma entrevista de emprego ao qual não consegui realizar na epoca, porém o gostinho de que era possivel, só bastata um pouco mais de hard-skills. Pois bem, projeto saiu como planejado, espero que curtam. 
 ## 🛠️ Construído com
 * HTML5
 * CSS
